@@ -136,20 +136,20 @@ From the results, **Random Forest Regressor** performed the best with the lowest
 ## Reports
  The reports folder contains the following files:
 
-MobileGamesDataAnalysis.pdf: A detailed report of the game data analysis.
-MobileGamesDataAnalysis.pbix: Power BI file containing the dashboard for the analysis.
-MobileGamesDataAnalysis_dashboard.pdf: A PDF version of the dashboard.
+**MobileGamesDataAnalysis.pdf:** A detailed report of the game data analysis.
+**MobileGamesDataAnalysis.pbix:** Power BI file containing the dashboard for the analysis.
+**MobileGamesDataAnalysis_dashboard.pdf:** A PDF version of the dashboard.
 
 ## Data
 The data folder contains the following files:
 
-appstore_games.csv: The raw dataset containing information about mobile game apps.
-newgamesclean.csv: The cleaned version of the dataset after preprocessing.
+**appstore_games.csv:** The raw dataset containing information about mobile game apps.
+**newgamesclean.csv:** The cleaned version of the dataset after preprocessing.
 
 ## Scripts
 The scripts folder contains the following file:
 
-MobileGamesDataAnalysis.ipynb: Jupyter Notebook containing the full code for data analysis, preprocessing, and machine learning model training.
+**MobileGamesDataAnalysis.ipynb:** Jupyter Notebook containing the full code for data analysis, preprocessing, and machine learning model training.
 
 
 ## Conclusion
